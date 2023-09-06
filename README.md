@@ -4,7 +4,7 @@ The scope of this data processing and analysis report is to document the workflo
 The Google Ngrams dataset was created by Google's research team by analyzing all of the content in Google Books - these digitized texts represent approximately 4% of all books ever printed, and span a time period from the 1800s into the 2000s. The Google Ngram Viewer or Google Books Ngram Viewer is an online search engine that charts the frequencies of any set of search strings using a yearly count of n-grams found in printed sources published between 1500 and 2019.
 The dataset is hosted in a public S3 bucket as part of the Amazon S3 Open Data Registry. This data has been converted to CSV and hosted on a public S3 bucket.
 
-![image](flow_dia.png)
+![image](flow-dia.png)
 
 
 This repo consists of the following files:
